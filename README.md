@@ -8,14 +8,14 @@
 A Smart Traffic Light Signal Controller is an intelligent traffic management system that automatically controls traffic signals based on real-time road conditions. Unlike conventional traffic lights that operate with fixed timing, this system uses sensors, cameras, or vehicle detection modules to monitor traffic density at each lane. The collected data is processed by a microcontroller or embedded system, which adjusts the green light duration according to the number of vehicles waiting at an intersection.
 The main objective of the system is to reduce traffic congestion, minimize waiting time, and improve the overall flow of vehicles. During peak hours, roads with higher traffic density are given longer green signals, while roads with less traffic receive shorter signal durations. This dynamic operation helps in efficient traffic management and reduces fuel consumption caused by unnecessary idling.
 The system can also be integrated with emergency vehicle detection, allowing ambulances, fire trucks, and police vehicles to receive priority passage. Additionally, the controller can be connected to IoT platforms for remote monitoring and data analysis, enabling smarter urban transportation management.
-Advantages
+ADVANTAGES:
 Reduces traffic congestion.
 Minimizes vehicle waiting time.
 Saves fuel and reduces pollution.
 Improves road safety and traffic efficiency.
 Supports emergency vehicle priority.
 OUTPUT:
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6ce87248-1ebe-4fb0-904e-0f6d0d8b1bb2" />
+
 
 
 
