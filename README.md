@@ -14,6 +14,9 @@ Minimizes vehicle waiting time.
 Saves fuel and reduces pollution.
 Improves road safety and traffic efficiency.
 Supports emergency vehicle priority.
-Output
-Output: Smart Traffic Light Signal Controller Working Model
+OUTPUT:
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6ce87248-1ebe-4fb0-904e-0f6d0d8b1bb2" />
+
+
+
 OUTPUT:
