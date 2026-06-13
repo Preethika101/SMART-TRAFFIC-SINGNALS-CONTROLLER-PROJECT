@@ -15,6 +15,8 @@ Saves fuel and reduces pollution.
 Improves road safety and traffic efficiency.
 Supports emergency vehicle priority.
 OUTPUT:
+<img width="605" height="435" alt="image" src="https://github.com/user-attachments/assets/a966d827-a638-4b5c-bd80-25c336ada2ff" />
+
 
 
 
